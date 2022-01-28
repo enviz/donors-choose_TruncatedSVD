@@ -1,4 +1,4 @@
 # donors-choose_TruncatedSVD
-Analysis of Donors Choose dataset 
+Classification of Donors Choose dataset 
 
-GBDT on top features which are relavant for classification using XGBoost
+Gradient Boost Decision Trees (GBDT) on top features which are relavant for classification using XGBoost
